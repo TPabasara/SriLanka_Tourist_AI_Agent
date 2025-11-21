@@ -76,6 +76,13 @@ def make_header_fixed():
             font-size: 0.95rem !important;
             line-height: 1.25rem !important;
         }
+
+        [data-testid="stChatMessageContent"] {
+            font-size: 0.95rem!important;
+            line-height: 1.25rem!important;
+            font-weight: bold!important;  /* Makes text bold */
+            color: #FFFFFF!important;    /* Optional: Forces black text for contrast */
+        }
         </style>
         """,
         unsafe_allow_html=True
