@@ -4,8 +4,5 @@
 # Python cache
 __pycache__/
 
-# Vector database
-chroma_db/
-
 #vertual environments
 *venv
