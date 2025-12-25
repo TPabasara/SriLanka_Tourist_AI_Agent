@@ -11,7 +11,7 @@ from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 load_dotenv()
 
 # Configure LlamaIndex to use Google Gemini
-Settings.llm = GoogleGenAI(model_name="models/gemini-1.5-flash")
+Settings.llm = GoogleGenAI(model_name="models/gemini-2.0-flash")
 Settings.embed_model = GoogleGenAIEmbedding(model_name="models/text-embedding-004")
 
 # 1. Load Documents

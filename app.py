@@ -16,7 +16,7 @@ img =Image.open('./icons/srilanka.png')
 load_dotenv()
 
 # Configure LlamaIndex to use Google Gemini
-Settings.llm = GoogleGenAI(model_name="models/gemini-1.5-flash")
+Settings.llm = GoogleGenAI(model_name="models/gemini-2.0-flash")
 Settings.embed_model = GoogleGenAIEmbedding(model_name="models/text-embedding-004")
 
 def add_bg_local(image_file):
