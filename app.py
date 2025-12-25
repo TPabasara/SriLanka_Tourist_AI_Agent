@@ -153,16 +153,22 @@ if prompt := st.chat_input("What would you like to know?"):
     # Generate and stream the AI response
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            response_stream = st.session_state.chat_engine.query(prompt)
+            try:
+                response_stream = st.session_state.chat_engine.query(prompt)
             
-            # Stream the response to the page
-            response_placeholder = st.empty()
-            full_response = ""
-            for token in response_stream.response_gen:
-                full_response += token
-                response_placeholder.markdown(full_response + "▌")
-            response_placeholder.markdown(full_response)
+                # Stream the response to the page
+                response_placeholder = st.empty()
+                full_response = ""
+                for token in response_stream.response_gen:
+                    full_response += token
+                    response_placeholder.markdown(full_response + "▌")
+                response_placeholder.markdown(full_response)
             
-    st.session_state.messages.append({"role": "assistant", "content": full_response})
+                st.session_state.messages.append({"role": "assistant", "content": full_response})
 
-    st.markdown("</div>", unsafe_allow_html=True)
+            except Exception as e:
+                # This block runs ONLY if Google sends an error (like the 429 quota error)
+                error_message = "⚠️ I am currently overwhelmed with requests. As a free service, I have limitations. Please wait about a minute and try asking again!"
+                st.error(error_message)
+                # Optional: Print the actual error to your console logs for debugging
+                print(f"DEBUG: Gemini API Error encountered: {e}")
