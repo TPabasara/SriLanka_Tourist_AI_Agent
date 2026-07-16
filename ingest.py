@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from llama_index.llms.google_genai import GoogleGenAI
 from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 
-# Set your Google API Key
+# Google API Key
 load_dotenv()
 
 # Configure LlamaIndex to use Google Gemini
@@ -15,7 +15,7 @@ Settings.llm = GoogleGenAI(model_name="models/gemini-2.0-flash")
 Settings.embed_model = GoogleGenAIEmbedding(model_name="models/text-embedding-004")
 
 # 1. Load Documents
-# This reads all files from your ./data folder
+# This reads all files from ./data folder
 print("Loading documents...")
 documents = SimpleDirectoryReader("./data").load_data()
 
@@ -30,7 +30,7 @@ storage_context = StorageContext.from_defaults(vector_store=vector_store)
 # 4. Create the Index
 # This does all the work:
 # - Splits documents into chunks
-# - Creates "embeddings" (vector numbers) for each chunk
+# - Creates vector numbers for each chunk
 # - Stores them in your ChromaDB
 print("Creating index and storing embeddings...")
 index = VectorStoreIndex.from_documents(

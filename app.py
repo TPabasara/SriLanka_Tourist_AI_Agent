@@ -12,7 +12,7 @@ import streamlit as st
 import base64
 
 img =Image.open('./icons/srilanka.png')
-# Set your Google API Key (do this securely in a real app)
+# Google API Key
 load_dotenv()
 
 # Configure LlamaIndex to use Google Gemini
@@ -89,7 +89,7 @@ def make_header_fixed():
     )
 
 
-# --- Page Configuration ---
+# Page Configuration
 st.set_page_config(page_title="Sri Lanka Tourist AI", page_icon=img, layout="centered")
 
 make_header_fixed()
@@ -110,10 +110,10 @@ add_bg_local("icons/tourisum.png")
 
 
 
-# --- Load the Index (RAG) ---
+# Load the Index (RAG)
 @st.cache_resource
 def load_index():
-    # Connect to the ChromaDB collection you already created
+    # Connect to the ChromaDB
     db = chromadb.PersistentClient(path="./chroma_db")
     chroma_collection = db.get_collection("sri_lanka_tourism")
     
@@ -125,7 +125,7 @@ def load_index():
 try:
     index = load_index()
     
-    # Create the query engine (your actual agent)
+    # Create the query engine
     if "chat_engine" not in st.session_state:
         st.session_state.chat_engine = index.as_query_engine(streaming=True)
 
@@ -134,7 +134,7 @@ except Exception as e:
     st.stop()
 
 
-# --- Chat Interface Logic ---
+# Chat Interface Logic
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -167,8 +167,8 @@ if prompt := st.chat_input("What would you like to know?"):
                 st.session_state.messages.append({"role": "assistant", "content": full_response})
 
             except Exception as e:
-                # This block runs ONLY if Google sends an error (like the 429 quota error)
+                # This runs ONLY if Google sends an error
                 error_message = "⚠️ I am currently overwhelmed with requests. As a free service, I have limitations. Please wait about a minute and try asking again!"
                 st.error(error_message)
-                # Optional: Print the actual error to your console logs for debugging
+                # Actual error to console logs for debugging
                 print(f"DEBUG: Gemini API Error encountered: {e}")
