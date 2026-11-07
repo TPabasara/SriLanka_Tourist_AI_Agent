@@ -12,12 +12,13 @@ import streamlit as st
 import base64
 
 img =Image.open('./icons/srilanka.png')
-# Google API Key
+
 load_dotenv()
 
-# Configure LlamaIndex to use Google Gemini
-Settings.llm = GoogleGenAI(model_name="models/gemini-2.0-flash")
-Settings.embed_model = GoogleGenAIEmbedding(model_name="models/text-embedding-004")
+
+Settings.embed_model = GoogleGenAIEmbedding(model_name="models/gemini-embedding-2")
+Settings.llm = GoogleGenAI(model="models/gemini-3.8-flash", temperature=0.2)
+
 
 def add_bg_local(image_file):
     with open(image_file, "rb") as f:
@@ -133,8 +134,6 @@ except Exception as e:
     st.error(f"Error loading the knowledge base: {e}")
     st.stop()
 
-
-# Chat Interface Logic
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
