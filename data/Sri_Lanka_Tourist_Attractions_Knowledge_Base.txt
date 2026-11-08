@@ -1,0 +1,870 @@
+SRI LANKA TOURIST ATTRACTIONS - NATIONAL KNOWLEDGE BASE
+=======================================================
+Prepared: 8 November 2026 | Plain text | Purpose: Tourist-guide Agent / vector database
+
+SCOPE AND ACCURACY
+------------------
+This is a broad national directory of major and notable visitor attractions across all nine provinces and all 25 districts. Sri Lanka has thousands of small local shrines, beaches, waterfalls, viewpoints and community attractions; no finite public register establishes every attraction. This file must not be represented as literally containing every place in the country.
+Opening hours, fees, permits, ferry schedules, road access and seasonal restrictions change. Where a current official amount or schedule has not been verified, the record says to confirm it. Do not invent prices, hours, addresses, coordinates or wildlife sightings.
+UNESCO 'Yes' means the named property is inscribed on the World Heritage List. Nearby sites are not automatically UNESCO properties. Tentative List status is not inscription.
+Religious sites: modest clothing, footwear removal where requested, respect rituals and obey photography restrictions. Wildlife: keep distance, do not feed animals and use authorised operators. Nature: check weather, surf, currents, flash-flood risk and trail status.
+
+PROVINCE / DISTRICT COVERAGE
+---------------------------
+Western Province: Colombo, Gampaha, Kalutara.
+Central Province: Kandy, Matale, Nuwara Eliya.
+Southern Province: Galle, Matara, Hambantota.
+Northern Province: Jaffna, Kilinochchi, Mannar, Mullaitivu, Vavuniya.
+Eastern Province: Trincomalee, Batticaloa, Ampara.
+North Western Province: Kurunegala, Puttalam.
+North Central Province: Anuradhapura, Polonnaruwa.
+Uva Province: Badulla, Monaragala.
+Sabaragamuwa Province: Ratnapura, Kegalle.
+
+INDIVIDUAL FULL RECORDS (46)
+===================================
+
+ATTRACTION 001: Gangaramaya Temple
+Location: Colombo 2
+City: Colombo
+District: Western
+Province: Multi-province / verify district boundary
+Category: Buddhist temple and museum
+UNESCO World Heritage Site: No
+Overview and Description: A major Colombo Buddhist institute combining Sri Lankan, Thai, Indian and Chinese architectural influences. Its complex includes shrines, a library and eclectic museum collections.
+Historical and Cultural Significance: Founded in the late nineteenth century under Hikkaduwe Sri Sumangala Nayaka Thera. The annual Nawam Maha Perahera is a major Colombo religious procession.
+Main Attractions and Activities: Explore shrine buildings, Buddha images, antiques and museum displays; combine with nearby Seema Malaka.
+Practical Visitor Information - Location and Access: Central Colombo; taxi, tuk-tuk and bus access.
+Operating Hours: Hours vary by section and ceremony; confirm locally.
+Entry Fees (Foreign): Foreign: museum charge may apply; verify. Temple worship access may differ.
+Entry Fees (Local): Local: worship access generally available; verify museum tariff.
+Visitor Guidelines and Tips: Cover shoulders and knees; remove shoes and hats where requested; behave quietly. Daytime suits museum visits; festival dates vary.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 002: Seema Malaka
+Location: Beira Lake, Colombo
+City: Colombo
+District: Western
+Province: Multi-province / verify district boundary
+Category: Buddhist meditation temple and architecture
+UNESCO World Heritage Site: No
+Overview and Description: A serene temple complex on platforms over Beira Lake, known for open pavilions and a distinctive lakeside setting.
+Historical and Cultural Significance: Designed by Geoffrey Bawa in the late twentieth century and associated with Gangaramaya Temple.
+Main Attractions and Activities: View pavilions, Buddha images and lake scenery; combine with Gangaramaya.
+Practical Visitor Information - Location and Access: Central Colombo; taxi, tuk-tuk or walking.
+Operating Hours: Confirm temple access locally.
+Entry Fees (Foreign): Foreign: verify any current charge.
+Entry Fees (Local): Local: verify any current charge.
+Visitor Guidelines and Tips: Dress modestly, remove footwear where instructed and avoid disturbing meditation.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 003: Colombo National Museum
+Location: Sir Marcus Fernando Mawatha, Colombo 7
+City: Colombo
+District: Western
+Province: Multi-province / verify district boundary
+Category: National museum and archaeology
+UNESCO World Heritage Site: No
+Overview and Description: Sri Lanka's principal national museum, with galleries of royal regalia, sculpture, coins, weapons, manuscripts and traditional arts.
+Historical and Cultural Significance: Established in 1877; preserves material culture from ancient kingdoms through colonial and modern periods.
+Main Attractions and Activities: Explore Kandyan objects, sculpture, masks, manuscripts and historic galleries.
+Practical Visitor Information - Location and Access: Cinnamon Gardens; bus, taxi and tuk-tuk.
+Operating Hours: Check Department of National Museums schedule and closure days.
+Entry Fees (Foreign): Foreign: current museum tariff must be checked.
+Entry Fees (Local): Local: current museum tariff must be checked.
+Visitor Guidelines and Tips: Allow several hours; follow photography rules and check gallery closures.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 004: Independence Memorial Hall
+Location: Independence Square, Colombo 7
+City: Colombo
+District: Western
+Province: Multi-province / verify district boundary
+Category: National monument and public space
+UNESCO World Heritage Site: No
+Overview and Description: Stone memorial pavilion and landscaped square commemorating independence in 1948.
+Historical and Cultural Significance: Built to mark the end of British colonial rule; its design draws on Kandyan architectural forms.
+Main Attractions and Activities: View memorial architecture, statues and landscaped grounds; walk to nearby museums.
+Practical Visitor Information - Location and Access: Colombo 7; taxi, bus and walking.
+Operating Hours: Grounds may be open as a public space; interior/event access varies.
+Entry Fees (Foreign): Foreign: grounds generally free; events may charge.
+Entry Fees (Local): Local: grounds generally free; events may charge.
+Visitor Guidelines and Tips: Respect memorial space and event restrictions.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 005: Negombo Beach and Lagoon
+Location: Negombo coastal strip
+City: Negombo
+District: Gampaha
+Province: Western Province
+Category: Beach, fishing culture and lagoon ecology
+UNESCO World Heritage Site: No
+Overview and Description: A coastal destination with a long beach, fishing harbour, lagoon, churches and visitor facilities.
+Historical and Cultural Significance: Negombo's maritime identity reflects Portuguese, Dutch and British influences and a long-standing fishing community.
+Main Attractions and Activities: Beach walks, seafood, fish-market visits and responsible lagoon boat trips.
+Practical Visitor Information - Location and Access: Near Bandaranaike International Airport; road, bus and rail.
+Operating Hours: Beach generally accessible; tours and markets have separate hours.
+Entry Fees (Foreign): Foreign: beach generally free; tours charge separately.
+Entry Fees (Local): Local: beach generally free; tours charge separately.
+Visitor Guidelines and Tips: Check surf and currents; ask before photographing fishers. Early morning suits market visits.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 006: Muthurajawela Wetland
+Location: Ja-Ela / Negombo Lagoon area
+City: Ja-Ela / Negombo
+District: Gampaha
+Province: Western Province
+Category: Wetland and boat-based nature tourism
+UNESCO World Heritage Site: No
+Overview and Description: Coastal peat bog and wetland linked to Negombo Lagoon, with mangroves, birds, reptiles and aquatic habitats.
+Historical and Cultural Significance: Important for biodiversity, flood regulation and local livelihoods.
+Main Attractions and Activities: Guided boat observation and birdwatching through responsible operators.
+Practical Visitor Information - Location and Access: Arrange access through recognised local operators or visitor facilities.
+Operating Hours: Tour schedules and access vary; confirm before travel.
+Entry Fees (Foreign): Foreign: operator and access fees vary.
+Entry Fees (Local): Local: operator and access fees vary.
+Visitor Guidelines and Tips: Do not litter or feed wildlife; use a responsible operator and life jacket.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 007: Richmond Castle
+Location: Palatota, Kalutara
+City: Kalutara
+District: Western
+Province: Multi-province / verify district boundary
+Category: Historic mansion and architecture
+UNESCO World Heritage Site: No
+Overview and Description: An elaborate early twentieth-century mansion with verandas, imported materials and landscaped grounds.
+Historical and Cultural Significance: Built for regional landowner Don Arthur de Silva Wijesinghe Siriwardena; reflects colonial-era elite life.
+Main Attractions and Activities: Explore architecture, staircase, halls and grounds where open.
+Practical Visitor Information - Location and Access: Palatota near Kalutara; taxi or tuk-tuk.
+Operating Hours: Confirm public access and maintenance closures.
+Entry Fees (Foreign): Foreign: verify admission.
+Entry Fees (Local): Local: verify admission.
+Visitor Guidelines and Tips: Follow staff instructions and do not touch fragile interiors.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 008: Kalutara Bodhiya
+Location: Near Kalutara Bridge
+City: Kalutara
+District: Kalutara
+Province: Western Province
+Category: Buddhist shrine and pilgrimage
+UNESCO World Heritage Site: No
+Overview and Description: Prominent Buddhist shrine beside the Kalu Ganga, recognised by its white dagoba and sacred Bodhi tree.
+Historical and Cultural Significance: Important place of worship for residents and pilgrims travelling the southern coastal route.
+Main Attractions and Activities: Pay respects at the Bodhi tree and dagoba; view the river setting.
+Practical Visitor Information - Location and Access: Central Kalutara; road and rail access.
+Operating Hours: Daily worship; special-area access varies.
+Entry Fees (Foreign): Foreign: worship access generally free; donations voluntary.
+Entry Fees (Local): Local: worship access generally free; donations voluntary.
+Visitor Guidelines and Tips: Dress modestly and remove footwear where instructed.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 009: Kande Viharaya
+Location: Aluthgama
+City: Aluthgama
+District: Kalutara
+Province: Western Province
+Category: Buddhist temple and sculpture
+UNESCO World Heritage Site: No
+Overview and Description: Major Buddhist temple near Aluthgama, widely recognised for its monumental seated Buddha image.
+Historical and Cultural Significance: Long-standing regional religious centre and pilgrimage destination.
+Main Attractions and Activities: View Buddha statue, shrine buildings, murals and sculptures.
+Practical Visitor Information - Location and Access: Aluthgama; road and rail access.
+Operating Hours: Confirm local worship schedule.
+Entry Fees (Foreign): Foreign: worship access generally free; special areas may vary.
+Entry Fees (Local): Local: worship access generally free.
+Visitor Guidelines and Tips: Conservative clothing and footwear removal are expected.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 010: Temple of the Sacred Tooth Relic
+Location: Sri Dalada Veediya, Kandy
+City: Kandy
+District: Kandy
+Province: Central Province
+Category: Buddhist temple and sacred relic
+UNESCO World Heritage Site: Yes - Sacred City of Kandy (1988)
+Overview and Description: Major Buddhist pilgrimage site housing the sacred tooth relic, within the former royal palace precinct beside Kandy Lake.
+Historical and Cultural Significance: The relic became a symbol of sovereignty and religious legitimacy. The Esala Perahera is a major annual procession.
+Main Attractions and Activities: Explore shrine complex, audience hall and associated heritage; observe ceremonies when permitted.
+Practical Visitor Information - Location and Access: Central Kandy; walking, taxi, bus and rail.
+Operating Hours: Daily ritual schedule; check current temple notices.
+Entry Fees (Foreign): Foreign: visitor ticket may apply; verify current tariff.
+Entry Fees (Local): Local: worship and visitor arrangements differ; verify.
+Visitor Guidelines and Tips: Modest dress, remove shoes and hats where directed; security screening and photography restrictions may apply.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 011: Royal Botanical Gardens
+Location: Peradeniya
+City: Peradeniya
+District: Kandy
+Province: Central Province
+Category: Botanical garden
+UNESCO World Heritage Site: No
+Overview and Description: Large tropical garden with palm avenues, orchids, giant trees, lawns and plant collections beside the Mahaweli River.
+Historical and Cultural Significance: Developed from a royal garden and expanded as a botanical institution during British rule.
+Main Attractions and Activities: Explore orchid collections, spice plants, palm avenues and landscaped grounds.
+Practical Visitor Information - Location and Access: Peradeniya; bus, train, taxi and tuk-tuk.
+Operating Hours: Check Department of National Botanic Gardens schedule.
+Entry Fees (Foreign): Foreign: separate tariff; verify current amount.
+Entry Fees (Local): Local: separate tariff; verify current amount.
+Visitor Guidelines and Tips: Allow several hours; do not pick plants. Morning is comfortable.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 012: Knuckles Conservation Forest
+Location: Knuckles Range, multiple trailheads
+City: Kandy / Matale
+District: Kandy / Matale
+Province: Multi-province / verify district boundary
+Category: Mountain forest and hiking
+UNESCO World Heritage Site: Yes - component of Central Highlands of Sri Lanka (2010)
+Overview and Description: Rugged mountain range with cloud forest, grassland, streams, waterfalls and high biodiversity.
+Historical and Cultural Significance: Part of the Central Highlands World Heritage property; supports endemic species and traditional rural communities.
+Main Attractions and Activities: Guided hikes, birdwatching, village visits and viewpoints such as Riverston and Deanston.
+Practical Visitor Information - Location and Access: Access from Kandy, Matale and villages; some roads are rough.
+Operating Hours: Permits and trail access depend on entry point; confirm with forest authority.
+Entry Fees (Foreign): Foreign: permit and guide fees may apply; verify.
+Entry Fees (Local): Local: permit and guide requirements vary.
+Visitor Guidelines and Tips: Use authorised guides, check weather and leeches, stay on trails.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 013: Dambulla Cave Temple
+Location: Dambulla
+City: Dambulla
+District: Matale
+Province: Central Province
+Category: Buddhist cave temple and art
+UNESCO World Heritage Site: Yes - Rangiri Dambulla Cave Temple (1991)
+Overview and Description: Five principal cave shrines contain Buddha images and extensive murals; Golden Temple complex is at the base.
+Historical and Cultural Significance: Developed over centuries as a Buddhist centre; murals and sculpture document changing artistic traditions.
+Main Attractions and Activities: Visit cave shrines, murals, statues and viewpoints.
+Practical Visitor Information - Location and Access: Dambulla town; bus, taxi and tuk-tuk; steps required.
+Operating Hours: Confirm Central Cultural Fund and temple hours.
+Entry Fees (Foreign): Foreign: ticket applies; verify current tariff.
+Entry Fees (Local): Local: local tariff and worship arrangements differ.
+Visitor Guidelines and Tips: Cover shoulders and knees, remove footwear before caves, do not touch murals.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 014: Sigiriya Rock Fortress
+Location: Sigiriya
+City: Sigiriya
+District: Matale
+Province: Central Province
+Category: Ancient fortress and archaeology
+UNESCO World Heritage Site: Yes - Ancient City of Sigiriya (1982)
+Overview and Description: Rock citadel with water gardens, boulder gardens, frescoes, Mirror Wall, Lion Gate and summit palace remains.
+Historical and Cultural Significance: Associated with King Kashyapa in the fifth century; notable for planning, hydraulic engineering and art.
+Main Attractions and Activities: Climb summit, view frescoes and gardens, visit museum.
+Practical Visitor Information - Location and Access: Road access from Dambulla and Habarana.
+Operating Hours: Check Central Cultural Fund ticket and last-entry schedule.
+Entry Fees (Foreign): Foreign: foreign visitor tariff applies; verify.
+Entry Fees (Local): Local: local tariff applies; verify.
+Visitor Guidelines and Tips: Start early, carry water, wear secure shoes and follow safety instructions.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 015: Horton Plains and World's End
+Location: Horton Plains plateau
+City: Ohiya / Nuwara Eliya
+District: Nuwara Eliya
+Province: Central Province
+Category: National park and hiking
+UNESCO World Heritage Site: Yes - Central Highlands of Sri Lanka (2010)
+Overview and Description: High-altitude grassland and cloud forest with escarpment viewpoint World's End and Baker's Falls.
+Historical and Cultural Significance: Protects watershed habitats and endemic biodiversity within the Central Highlands property.
+Main Attractions and Activities: Hike designated circuit, view escarpment and waterfall, observe birds and plants.
+Practical Visitor Information - Location and Access: Road access from Nuwara Eliya or Ohiya.
+Operating Hours: Department of Wildlife Conservation gate schedule; confirm.
+Entry Fees (Foreign): Foreign: park, service and vehicle fees; verify official tariff.
+Entry Fees (Local): Local: park and vehicle fees; verify official tariff.
+Visitor Guidelines and Tips: Start early before mist; stay on trails and carry warm/rainproof clothing.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 016: Galle Fort
+Location: Galle
+City: Galle
+District: Galle
+Province: Southern Province
+Category: Fortified historic town
+UNESCO World Heritage Site: Yes - Old Town of Galle and its Fortifications (1988)
+Overview and Description: Historic coastal town with ramparts, bastions, churches, mosques, lighthouse, streets and colonial houses.
+Historical and Cultural Significance: Portuguese fortifications were expanded by the Dutch in the seventeenth century; later British use.
+Main Attractions and Activities: Walk ramparts, visit lighthouse area, churches, museums, galleries and cafes.
+Practical Visitor Information - Location and Access: Central Galle; train, bus and road.
+Operating Hours: Streets and ramparts are public; museums have own hours.
+Entry Fees (Foreign): Foreign: general fort access free; museums charge separately.
+Entry Fees (Local): Local: general fort access free; museums charge separately.
+Visitor Guidelines and Tips: Respect residents and religious sites; avoid climbing walls.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 017: Unawatuna Beach
+Location: Unawatuna
+City: Unawatuna
+District: Galle
+Province: Southern Province
+Category: Beach and coastal recreation
+UNESCO World Heritage Site: No
+Overview and Description: Curved sandy bay near Galle with restaurants and seasonal swimming and snorkelling.
+Historical and Cultural Significance: Developed from a coastal settlement into a major visitor destination.
+Main Attractions and Activities: Swimming when safe, snorkelling, coastal dining and walks.
+Practical Visitor Information - Location and Access: South of Galle; bus, rail to nearby stations, taxi.
+Operating Hours: Beach generally open; operators set activity schedules.
+Entry Fees (Foreign): Foreign: public beach free; activities charge separately.
+Entry Fees (Local): Local: public beach free; activities charge separately.
+Visitor Guidelines and Tips: Check currents and surf; do not stand on coral.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 018: Hikkaduwa Beach and Coral Sanctuary
+Location: Hikkaduwa
+City: Hikkaduwa
+District: Galle
+Province: Southern Province
+Category: Beach, reef and surfing
+UNESCO World Heritage Site: No
+Overview and Description: Coastal destination known for surfing and nearshore coral reef habitat.
+Historical and Cultural Significance: One of Sri Lanka's early international beach tourism centres; reef is ecologically sensitive.
+Main Attractions and Activities: Surfing, snorkelling in suitable conditions and responsible boat trips.
+Practical Visitor Information - Location and Access: Coastal railway and road.
+Operating Hours: Beach generally open; water activities weather-dependent.
+Entry Fees (Foreign): Foreign: beach free; activities charge separately.
+Entry Fees (Local): Local: beach free; activities charge separately.
+Visitor Guidelines and Tips: Never touch or stand on coral; do not feed turtles or marine life.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 019: Mirissa Beach
+Location: Mirissa
+City: Mirissa
+District: Matara
+Province: Southern Province
+Category: Beach and whale-watching departure point
+UNESCO World Heritage Site: No
+Overview and Description: South-coast bay with sandy beach, restaurants, surf and seasonal marine wildlife excursions.
+Historical and Cultural Significance: Developed from fishing village into beach destination while retaining a working harbour.
+Main Attractions and Activities: Beach, surfing and whale watching through responsible operators.
+Practical Visitor Information - Location and Access: Between Weligama and Matara; road and rail nearby.
+Operating Hours: Boat departures seasonal and operator-dependent.
+Entry Fees (Foreign): Foreign: beach free; excursions charge separately.
+Entry Fees (Local): Local: beach free; excursions charge separately.
+Visitor Guidelines and Tips: Choose operators that maintain legal wildlife distances; sightings not guaranteed.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 020: Yala National Park
+Location: Palatupana / Katagamuwa access areas
+City: Tissamaharama / Kirinda
+District: Hambantota / Monaragala
+Province: Multi-province / verify district boundary
+Category: National park and wildlife safari
+UNESCO World Heritage Site: No
+Overview and Description: Dry forest, scrub, lagoons, beaches and rocky outcrops; known for leopards, elephants, crocodiles and birds.
+Historical and Cultural Significance: Protects dry-zone ecosystems and archaeological landscapes.
+Main Attractions and Activities: Jeep safari, birdwatching and wildlife photography.
+Practical Visitor Information - Location and Access: Official entrances; choose the correct block and gate.
+Operating Hours: Park sessions and closures set by DWC; verify.
+Entry Fees (Foreign): Foreign: park, service and vehicle fees; verify official tariff.
+Entry Fees (Local): Local: park and vehicle fees; verify official tariff.
+Visitor Guidelines and Tips: Use authorised operators; remain in vehicle; never feed or approach animals.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 021: Bundala National Park
+Location: Near Hambantota
+City: Hambantota
+District: Hambantota
+Province: Southern Province
+Category: National park and wetlands
+UNESCO World Heritage Site: No
+Overview and Description: Coastal wetlands, lagoons, salt pans and dunes important for migratory waterbirds.
+Historical and Cultural Significance: Ramsar wetland of international importance and part of the Central Asian Flyway.
+Main Attractions and Activities: Birdwatching, jeep safari and wetland photography.
+Practical Visitor Information - Location and Access: Near Hambantota and Tissamaharama; official gates.
+Operating Hours: Confirm DWC gate schedule.
+Entry Fees (Foreign): Foreign: park and vehicle fees; verify.
+Entry Fees (Local): Local: park and vehicle fees; verify.
+Visitor Guidelines and Tips: Use binoculars, keep quiet near birds and avoid disturbing habitats.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 022: Nallur Kandaswamy Kovil
+Location: Nallur
+City: Jaffna
+District: Jaffna
+Province: Northern Province
+Category: Hindu temple and religious architecture
+UNESCO World Heritage Site: No
+Overview and Description: Major Hindu temple dedicated to Lord Murugan, known for ornate entrance tower and active rituals.
+Historical and Cultural Significance: Linked to the Jaffna Kingdom and long-standing Tamil Hindu worship; annual Nallur festival is prominent.
+Main Attractions and Activities: Observe pujas and temple architecture; visit during festival if dates allow.
+Practical Visitor Information - Location and Access: Nallur, near Jaffna town; tuk-tuk, taxi and bus.
+Operating Hours: Ritual schedules vary; confirm locally.
+Entry Fees (Foreign): Foreign: worship access generally free; donations voluntary.
+Entry Fees (Local): Local: worship access generally free.
+Visitor Guidelines and Tips: Follow temple dress rules; remove footwear; photography may be restricted.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 023: Jaffna Fort
+Location: Near Jaffna Lagoon
+City: Jaffna
+District: Jaffna
+Province: Northern Province
+Category: Colonial fortification
+UNESCO World Heritage Site: No
+Overview and Description: Large coastal star fort with ramparts and surviving structures overlooking lagoon.
+Historical and Cultural Significance: Portuguese-built in the seventeenth century and expanded by Dutch and British administrations.
+Main Attractions and Activities: Walk open ramparts and explore restored structures where accessible.
+Practical Visitor Information - Location and Access: Near Jaffna centre; road and tuk-tuk.
+Operating Hours: Confirm restoration closures and security restrictions.
+Entry Fees (Foreign): Foreign: site ticket may apply; verify.
+Entry Fees (Local): Local: verify current tariff.
+Visitor Guidelines and Tips: Stay within open areas and avoid unstable masonry.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 024: Delft Island
+Location: Delft Island, Palk Strait
+City: Delft
+District: Jaffna
+Province: Northern Province
+Category: Island heritage and coastal landscape
+UNESCO World Heritage Site: No
+Overview and Description: Remote island known for wild ponies, baobab trees, coral-stone walls and colonial remains.
+Historical and Cultural Significance: Portuguese and Dutch presence and long-standing Tamil island communities shape its heritage.
+Main Attractions and Activities: Visit fort remains, Queen's Tower, baobab tree and coastal features.
+Practical Visitor Information - Location and Access: Ferry from Kurikadduwan jetty; schedules weather-dependent.
+Operating Hours: Day trips depend on ferry timetable.
+Entry Fees (Foreign): Foreign: ferry, local transport and site charges vary.
+Entry Fees (Local): Local: ferry and local transport charges vary.
+Visitor Guidelines and Tips: Plan return ferry, carry water and food, protect against sun.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 025: Mannar Island
+Location: Mannar
+City: Mannar
+District: Mannar
+Province: Northern Province
+Category: Island, coastal heritage and birdlife
+UNESCO World Heritage Site: No
+Overview and Description: Dry coastal island connected by causeway, with fishing settlements, baobab trees, birdlife and colonial remains.
+Historical and Cultural Significance: Long maritime and trading history shaped by Portuguese, Dutch and British influence.
+Main Attractions and Activities: Explore baobab tree, coastal scenery, fishing settlements and permitted viewpoints.
+Practical Visitor Information - Location and Access: Road access via causeway.
+Operating Hours: Public areas generally accessible; restricted areas may apply.
+Entry Fees (Foreign): Foreign: public access generally free; tours may charge.
+Entry Fees (Local): Local: public access generally free; tours may charge.
+Visitor Guidelines and Tips: Check local restrictions and avoid sensitive military or ecological areas.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 026: Koneswaram Temple
+Location: Fort Frederick, Trincomalee
+City: Trincomalee
+District: Trincomalee
+Province: Eastern Province
+Category: Hindu temple and coastal sacred site
+UNESCO World Heritage Site: No
+Overview and Description: Major Shiva temple on rocky promontory overlooking Trincomalee Harbour and the Indian Ocean.
+Historical and Cultural Significance: Ancient Tamil Hindu worship site; destroyed under Portuguese rule and later reconstructed.
+Main Attractions and Activities: Visit temple and Swami Rock viewpoint; explore Fort Frederick setting.
+Practical Visitor Information - Location and Access: Fort Frederick; road access and walking.
+Operating Hours: Temple puja and fort access vary; confirm locally.
+Entry Fees (Foreign): Foreign: worship access generally free; donations voluntary.
+Entry Fees (Local): Local: worship access generally free.
+Visitor Guidelines and Tips: Follow temple dress and footwear rules; take care near cliffs.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 027: Pigeon Island National Park
+Location: Off Nilaveli
+City: Nilaveli
+District: Trincomalee
+Province: Eastern Province
+Category: Marine national park
+UNESCO World Heritage Site: No
+Overview and Description: Two small islands and surrounding coral reef habitat known for reef fish and blacktip reef sharks.
+Historical and Cultural Significance: Protected marine ecosystem and recognised marine national park.
+Main Attractions and Activities: Boat transfer, guided snorkelling and marine wildlife observation.
+Practical Visitor Information - Location and Access: Boat from Nilaveli; weather-dependent.
+Operating Hours: DWC park schedule and sea conditions apply.
+Entry Fees (Foreign): Foreign: park and boat fees; verify official tariff.
+Entry Fees (Local): Local: park and boat fees; verify official tariff.
+Visitor Guidelines and Tips: Do not touch coral or wildlife; wear life jacket; avoid rough seas.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 028: Pasikudah Beach
+Location: Pasikudah
+City: Pasikudah
+District: Batticaloa
+Province: Eastern Province
+Category: Beach and swimming
+UNESCO World Heritage Site: No
+Overview and Description: East-coast bay known for shallow water extending offshore during favourable conditions.
+Historical and Cultural Significance: Part of eastern coastal communities and resort development.
+Main Attractions and Activities: Swimming when safe, beach walks and resort water activities.
+Practical Visitor Information - Location and Access: Road access north of Batticaloa.
+Operating Hours: Public beach open; operators set activity hours.
+Entry Fees (Foreign): Foreign: beach generally free; activities charge.
+Entry Fees (Local): Local: beach generally free; activities charge.
+Visitor Guidelines and Tips: Shallow water is not automatically safe; follow lifeguard advice.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 029: Gal Oya National Park
+Location: Inginiyagala / Senanayake Samudraya
+City: Ampara
+District: Ampara
+Province: Eastern Province
+Category: National park and reservoir safari
+UNESCO World Heritage Site: No
+Overview and Description: Dry-zone forest and reservoir landscape with islands, elephants and diverse birdlife.
+Historical and Cultural Significance: Established to protect wildlife and reservoir catchment ecosystems.
+Main Attractions and Activities: Jeep safari and boat excursions where officially available.
+Practical Visitor Information - Location and Access: Road access to Inginiyagala; remote routes.
+Operating Hours: Confirm park and boat schedules with DWC/operator.
+Entry Fees (Foreign): Foreign: park, boat and vehicle fees may apply; verify.
+Entry Fees (Local): Local: park, boat and vehicle fees may apply; verify.
+Visitor Guidelines and Tips: Use authorised guides and life jackets; wildlife sightings not guaranteed.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 030: Arugam Bay
+Location: Pottuvil
+City: Pottuvil
+District: Ampara
+Province: Eastern Province
+Category: Surf beach and coastal tourism
+UNESCO World Heritage Site: No
+Overview and Description: Internationally known east-coast surfing destination with bay, fishing activity and visitor services.
+Historical and Cultural Significance: Reflects eastern coastal culture and has grown into a major surf tourism centre.
+Main Attractions and Activities: Surfing, lessons, beach visits and lagoon excursions.
+Practical Visitor Information - Location and Access: Road access from Batticaloa, Ampara and Monaragala.
+Operating Hours: Beach open; surf schools and tours set schedules.
+Entry Fees (Foreign): Foreign: beach free; activities charge.
+Entry Fees (Local): Local: beach free; activities charge.
+Visitor Guidelines and Tips: Surf within ability and follow local etiquette and sea warnings.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 031: Yapahuwa Rock Fortress
+Location: Yapahuwa
+City: Yapahuwa
+District: Kurunegala
+Province: North Western Province
+Category: Ancient fortress and archaeology
+UNESCO World Heritage Site: No
+Overview and Description: Rock fortress with ornamental stone stairway, palace remains and defensive structures.
+Historical and Cultural Significance: Briefly served as royal capital in the thirteenth century and protected the Tooth Relic during political instability.
+Main Attractions and Activities: Climb stairway, view carvings and explore archaeological remains.
+Practical Visitor Information - Location and Access: Near Maho; road and rail to nearby stations.
+Operating Hours: Confirm site ticket and opening schedule.
+Entry Fees (Foreign): Foreign: site ticket may apply; verify.
+Entry Fees (Local): Local: verify tariff.
+Visitor Guidelines and Tips: Steep climb; wear suitable shoes and avoid rain.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 032: Ridi Viharaya
+Location: Ridigama
+City: Ridigama
+District: Kurunegala
+Province: North Western Province
+Category: Buddhist temple and cave art
+UNESCO World Heritage Site: No
+Overview and Description: Historic temple complex with cave shrines, murals, sculptures and traditional architecture.
+Historical and Cultural Significance: Tradition links silver found here to King Dutugemunu's construction of Ruwanwelisaya.
+Main Attractions and Activities: Explore cave shrines, murals and image houses.
+Practical Visitor Information - Location and Access: Road access near Kurunegala.
+Operating Hours: Confirm temple access locally.
+Entry Fees (Foreign): Foreign: worship generally free; special museum areas may charge.
+Entry Fees (Local): Local: worship generally free.
+Visitor Guidelines and Tips: Dress modestly, remove footwear and do not touch murals.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 033: Wilpattu National Park
+Location: Eluwankulama / Hunuwilagama gates
+City: Puttalam / Anuradhapura
+District: Puttalam / Anuradhapura
+Province: Multi-province / verify district boundary
+Category: National park and wildlife safari
+UNESCO World Heritage Site: No
+Overview and Description: Large dry-zone park with forest, scrub, grassland and natural lakes called villus.
+Historical and Cultural Significance: Protects an extensive dry-zone ecosystem and wildlife habitats.
+Main Attractions and Activities: Jeep safari for leopard, sloth bear, elephant and birds; sightings not guaranteed.
+Practical Visitor Information - Location and Access: Use official park gates and authorised operators.
+Operating Hours: DWC sessions and closures apply; verify.
+Entry Fees (Foreign): Foreign: park, service and vehicle fees; verify.
+Entry Fees (Local): Local: park and vehicle fees; verify.
+Visitor Guidelines and Tips: Remain in vehicle unless instructed; do not feed wildlife.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 034: Kalpitiya Peninsula
+Location: Kalpitiya
+City: Kalpitiya
+District: Puttalam
+Province: North Western Province
+Category: Peninsula, beaches and marine tourism
+UNESCO World Heritage Site: No
+Overview and Description: Sandy peninsula between Indian Ocean and Puttalam Lagoon, with fishing villages, beaches and marine wildlife.
+Historical and Cultural Significance: Historic maritime and fishing region with Portuguese and Dutch-era heritage.
+Main Attractions and Activities: Kitesurfing, responsible dolphin trips, lagoon tours and beach visits.
+Practical Visitor Information - Location and Access: Road access north-west of Puttalam.
+Operating Hours: Activities seasonal and operator-dependent.
+Entry Fees (Foreign): Foreign: beaches generally free; tours charge.
+Entry Fees (Local): Local: beaches generally free; tours charge.
+Visitor Guidelines and Tips: Choose responsible marine operators and check wind and sea conditions.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 035: Anuradhapura Sacred City
+Location: Anuradhapura Archaeological Park
+City: Anuradhapura
+District: Anuradhapura
+Province: North Central Province
+Category: Ancient city and Buddhist heritage
+UNESCO World Heritage Site: Yes - Sacred City of Anuradhapura (1982)
+Overview and Description: Ancient capital with monumental stupas, monasteries, reservoirs, palaces and sacred tree precincts.
+Historical and Cultural Significance: Political and religious centre for over a millennium; central to the introduction and development of Buddhism in Sri Lanka.
+Main Attractions and Activities: Visit Sri Maha Bodhi, Ruwanwelisaya, Jetavanaramaya, Abhayagiri, Thuparamaya and Isurumuniya.
+Practical Visitor Information - Location and Access: Anuradhapura; rail, bus and road.
+Operating Hours: Individual shrines and archaeological ticket areas have different schedules.
+Entry Fees (Foreign): Foreign: combined archaeological ticket may apply to designated monuments; verify.
+Entry Fees (Local): Local: local ticketing differs; verify.
+Visitor Guidelines and Tips: Large site; arrange transport or cycle; dress modestly at sacred places.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 036: Mihintale
+Location: Mihintale
+City: Mihintale
+District: Anuradhapura
+Province: North Central Province
+Category: Buddhist pilgrimage and archaeology
+UNESCO World Heritage Site: No
+Overview and Description: Sacred hill complex with stupas, monastic remains, inscriptions and long stairways.
+Historical and Cultural Significance: Tradition identifies it as the meeting place of Arahat Mahinda and King Devanampiya Tissa, marking Buddhism's introduction to the royal court.
+Main Attractions and Activities: Climb to Ambasthala Dagoba, Maha Seya and Aradhana Gala.
+Practical Visitor Information - Location and Access: Road east of Anuradhapura.
+Operating Hours: Confirm temple access and schedules.
+Entry Fees (Foreign): Foreign: site charge may apply; verify.
+Entry Fees (Local): Local: worship and site charges vary.
+Visitor Guidelines and Tips: Steep and exposed climb; carry water and avoid storms.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 037: Aukana Buddha Statue
+Location: Aukana
+City: Kekirawa area
+District: Anuradhapura
+Province: North Central Province
+Category: Ancient Buddhist sculpture
+UNESCO World Heritage Site: No
+Overview and Description: Standing Buddha carved from a single rock face, renowned for proportions and robe detail.
+Historical and Cultural Significance: Generally dated to the fifth century and a major achievement of ancient Sri Lankan sculpture.
+Main Attractions and Activities: View statue and temple setting.
+Practical Visitor Information - Location and Access: Road from Kekirawa or Anuradhapura.
+Operating Hours: Confirm temple access.
+Entry Fees (Foreign): Foreign: site or temple fee may apply; verify.
+Entry Fees (Local): Local: verify arrangements.
+Visitor Guidelines and Tips: Dress modestly; do not touch or climb statue.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 038: Polonnaruwa Ancient City
+Location: Polonnaruwa Archaeological Park
+City: Polonnaruwa
+District: Polonnaruwa
+Province: North Central Province
+Category: Ancient city and archaeology
+UNESCO World Heritage Site: Yes - Ancient City of Polonnaruwa (1982)
+Overview and Description: Medieval capital with palace ruins, monasteries, stupas, statues and irrigation works.
+Historical and Cultural Significance: Flourished under Kings Parakramabahu I and Nissanka Malla in the eleventh to thirteenth centuries.
+Main Attractions and Activities: Visit Royal Palace, Quadrangle, Vatadage, Rankoth Vehera, Lankatilaka and Gal Vihara.
+Practical Visitor Information - Location and Access: Polonnaruwa; road, bus and nearby rail.
+Operating Hours: Archaeological park schedule; confirm current opening.
+Entry Fees (Foreign): Foreign: archaeological park ticket applies; verify.
+Entry Fees (Local): Local: local tariff applies; verify.
+Visitor Guidelines and Tips: Large park; cycling or vehicle useful; remove footwear at sacred places.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 039: Minneriya National Park
+Location: Minneriya / Habarana
+City: Habarana
+District: Polonnaruwa
+Province: North Central Province
+Category: National park and elephant watching
+UNESCO World Heritage Site: No
+Overview and Description: Dry-zone forest and grassland around ancient Minneriya Tank, known for seasonal elephant gatherings.
+Historical and Cultural Significance: Tank built under King Mahasena; park protects wildlife corridors and reservoir habitat.
+Main Attractions and Activities: Jeep safari, elephant observation and birdwatching.
+Practical Visitor Information - Location and Access: Official park gate near Habarana.
+Operating Hours: Confirm DWC gate schedule and seasonal access.
+Entry Fees (Foreign): Foreign: park and vehicle fees; verify.
+Entry Fees (Local): Local: park and vehicle fees; verify.
+Visitor Guidelines and Tips: Elephant numbers vary seasonally; keep distance and never feed.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 040: Nine Arch Bridge
+Location: Demodara, near Ella
+City: Ella
+District: Badulla
+Province: Uva Province
+Category: Railway architecture and viewpoint
+UNESCO World Heritage Site: No
+Overview and Description: Stone and brick railway viaduct with nine arches among tea plantations and forested hills.
+Historical and Cultural Significance: Colonial-era railway engineering landmark.
+Main Attractions and Activities: Viewpoints and photography; observe trains from safe locations.
+Practical Visitor Information - Location and Access: Walk from Ella or Demodara; local transport.
+Operating Hours: Outdoor public viewpoints; check Sri Lanka Railways timetable.
+Entry Fees (Foreign): Foreign: public viewpoints generally free; private paths may charge.
+Entry Fees (Local): Local: public viewpoints generally free.
+Visitor Guidelines and Tips: Never stand on tracks or lean into train path.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 041: Diyaluma Falls
+Location: Koslanda
+City: Koslanda
+District: Badulla
+Province: Uva Province
+Category: Waterfall and hiking
+UNESCO World Heritage Site: No
+Overview and Description: High waterfall with multiple tiers, upper cascades and natural pools in a dramatic escarpment landscape.
+Historical and Cultural Significance: Part of Uva highland landscape and regional folklore.
+Main Attractions and Activities: View falls and hike upper route with knowledgeable guide.
+Practical Visitor Information - Location and Access: Road near Koslanda; local trail access.
+Operating Hours: Daylight only; weather-dependent.
+Entry Fees (Foreign): Foreign: guide/parking/access charges may apply; verify.
+Entry Fees (Local): Local: guide/parking/access charges may apply.
+Visitor Guidelines and Tips: Upper pools and cliff edges are dangerous; no cliff jumping; avoid after rain.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 042: Sinharaja Forest Reserve
+Location: Kudawa / Weddagala / Deniyaya entrances
+City: Ratnapura / Galle / Matara
+District: Sabaragamuwa / Southern
+Province: Multi-province / verify district boundary
+Category: Tropical rainforest and biodiversity
+UNESCO World Heritage Site: Yes - Sinharaja Forest Reserve (1988)
+Overview and Description: Lowland rainforest biodiversity hotspot with many endemic plants, birds, amphibians and insects.
+Historical and Cultural Significance: Ancient wet-zone ecosystem central to Sri Lanka's conservation heritage.
+Main Attractions and Activities: Guided rainforest walks, birdwatching and endemic species observation.
+Practical Visitor Information - Location and Access: Use authorised entrances; Kudawa is a common northern entrance.
+Operating Hours: Forest Department gate schedule and permit rules apply.
+Entry Fees (Foreign): Foreign: permit and guide fees; verify.
+Entry Fees (Local): Local: permit and guide fees; verify.
+Visitor Guidelines and Tips: Authorised guide, leech protection, rain gear; stay on permitted trails.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 043: Kitulgala White-Water Rafting
+Location: Kitulgala, Kelani River
+City: Kitulgala
+District: Kegalle
+Province: Sabaragamuwa Province
+Category: Adventure tourism and rafting
+UNESCO World Heritage Site: No
+Overview and Description: Riverside town known for white-water rafting, rainforest scenery and adventure activities.
+Historical and Cultural Significance: Region became known internationally through filming of The Bridge on the River Kwai nearby.
+Main Attractions and Activities: Rafting, river activities and guided nature walks.
+Practical Visitor Information - Location and Access: A7 road between Colombo and Nuwara Eliya.
+Operating Hours: Operator schedules depend on river conditions.
+Entry Fees (Foreign): Foreign: activity prices vary; confirm safety equipment and insurance.
+Entry Fees (Local): Local: activity prices vary.
+Visitor Guidelines and Tips: Use reputable operators, wear safety equipment and follow guide instructions.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 044: Pinnawala Elephant Orphanage
+Location: Pinnawala
+City: Rambukkana
+District: Kegalle
+Province: Sabaragamuwa Province
+Category: Elephant care facility and visitor attraction
+UNESCO World Heritage Site: No
+Overview and Description: Facility established to care for orphaned and abandoned elephants; visitors observe animals in managed settings.
+Historical and Cultural Significance: Established by the Department of Wildlife Conservation in 1975.
+Main Attractions and Activities: Observe elephants and learn about care; feeding/bathing schedules may change.
+Practical Visitor Information - Location and Access: Pinnawala near Rambukkana; road and rail nearby.
+Operating Hours: Confirm facility's current schedule.
+Entry Fees (Foreign): Foreign: official foreign visitor tariff; verify.
+Entry Fees (Local): Local: official local visitor tariff; verify.
+Visitor Guidelines and Tips: Follow animal-welfare rules; do not touch, feed or ride animals unless explicitly authorised.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 045: Bopath Ella
+Location: Kuruwita
+City: Kuruwita
+District: Ratnapura
+Province: Sabaragamuwa Province
+Category: Waterfall and nature
+UNESCO World Heritage Site: No
+Overview and Description: Waterfall whose outline is compared to a Bo leaf, set in the Kuru Ganga landscape.
+Historical and Cultural Significance: Popular natural attraction associated with local folklore.
+Main Attractions and Activities: View cascade from safe viewpoints.
+Practical Visitor Information - Location and Access: Road from Ratnapura and Colombo.
+Operating Hours: Daylight; access may close during high water.
+Entry Fees (Foreign): Foreign: local access/parking charge may apply; verify.
+Entry Fees (Local): Local: local access/parking charge may apply; verify.
+Visitor Guidelines and Tips: Slippery edges and flash-flood risk; do not swim in unsafe pools.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+ATTRACTION 046: Sri Pada / Adam's Peak
+Location: Nallathanniya or Palabaddala routes
+City: Nallathanniya / Ratnapura
+District: Nuwara Eliya / Ratnapura
+Province: Multi-province / verify district boundary
+Category: Sacred mountain and pilgrimage hike
+UNESCO World Heritage Site: Peak Wilderness is within Central Highlands World Heritage property; mountain not separately inscribed
+Overview and Description: Prominent sacred mountain with summit footprint shrine revered by multiple religious traditions.
+Historical and Cultural Significance: Centuries-old pilgrimage tradition; main season is generally during cooler months.
+Main Attractions and Activities: Climb pilgrimage route, visit summit shrine and view sunrise when weather permits.
+Practical Visitor Information - Location and Access: Routes from Nallathanniya and Palabaddala; plan transport.
+Operating Hours: Seasonal route arrangements; check current notices.
+Entry Fees (Foreign): Foreign: no universal fee; route services and transport may charge.
+Entry Fees (Local): Local: no universal fee; route services may charge.
+Visitor Guidelines and Tips: Strenuous climb; warm clothing, water and suitable shoes essential.
+Information Verification: General destination information; verify current operational details with the responsible authority before travel.
+
+UNESCO WORLD HERITAGE REFERENCE
+================================
+UNESCO lists eight Sri Lankan World Heritage properties:
+1. Sacred City of Anuradhapura (1982) - North Central Province.
+2. Ancient City of Polonnaruwa (1982) - North Central Province.
+3. Ancient City of Sigiriya (1982) - Central Province, Matale District.
+4. Old Town of Galle and its Fortifications (1988) - Southern Province.
+5. Sacred City of Kandy (1988) - Central Province.
+6. Sinharaja Forest Reserve (1988) - Sabaragamuwa / Southern region.
+7. Rangiri Dambulla Cave Temple (1991) - Central Province, Matale District.
+8. Central Highlands of Sri Lanka (2010) - includes Peak Wilderness, Horton Plains and Knuckles components.
+
+UNESCO TENTATIVE LIST NOTE
+Seruwila Mangala Raja Maha Vihara and Ritigala have appeared on Sri Lanka's Tentative List. Tentative List inclusion is not World Heritage inscription. Distinguish these statuses in answers.
+
+ADDITIONAL ATTRACTIONS FOR FUTURE ENRICHMENT
+============================================
+Western: Diyatha Uyana; Ape Gama; Diyawanna Oya; Wolvendaal Church; St. Lucia's Cathedral; Pettah Market; Red Mosque; Dehiwala Zoological Gardens; Sri Lanka Air Force Museum; Attidiya Bird Sanctuary; Hamilton Canal; Henarathgoda Botanical Garden; St. Mary's Church Negombo; Pahiyangala Cave; Thudugala Ella.
+Central: Embekka Devalaya; Lankatilaka Vihara; Gadaladeniya Vihara; Degaldoruwa; Sera Ella; Bambarakiri Ella; Wasgamuwa National Park; Meemure; Corbett's Gap; Ramboda Falls; St. Clair's Falls; Devon Falls; Seetha Amman Temple; Pedro Tea Estate; Ambewela.
+Southern: Madu River; Koggala Lake; Martin Wickramasinghe Folk Museum; Ahangama; Midigama; Weligama Bay; Polhena Beach; Parey Duwa Temple; Weherahena Temple; Hiriketiya; Rekawa Turtle Conservation Area; Kalametiya Bird Sanctuary; Madunagala Hot Springs; Ussangoda; Tissamaharama Raja Maha Vihara; Lunugamvehera National Park.
+Northern: Jaffna Archaeological Museum; Kayts Island; Hammenhiel Fort; Charty Beach; Manalkadu dunes; Thondamanaru; Vallipuram Alvar Temple; Kandarodai / Kadurugoda; Elephant Pass; Iranamadu Tank; Mullaitivu coastal and memorial sites; Vavuniya Archaeological Museum.
+Eastern: Uppuveli Beach; Trincomalee War Cemetery; Kuchchaveli coast; Batticaloa Lighthouse; Kallady Beach; Thoppigala; Lahugala-Kitulana National Park; Deegavapi; Muhudu Maha Viharaya; Okanda Devalaya; Panama coast.
+North Western: Arankele Forest Monastery; Athugala; Chilaw beach; Kalpitiya Dutch Fort; Puttalam Lagoon; St. Anne's Shrine Talawila; Magalla Wewa; Deduru Oya.
+North Central: Thanthirimale; Kala Wewa; Padaviya Tank; Medirigiriya Vatadage; Somawathiya; Angammedilla National Park; Giritale Tank; Dimbulagala Raja Maha Vihara.
+Uva: Muthiyangana Raja Maha Vihara; Namunukula; Narangala; Bambarakanda Falls; Lanka Ella; Dowa Rock Temple; Demodara Railway Loop; Madulsima Mini World's End; Buduruwagala; Maligawila Buddha; Yudaganawa.
+Sabaragamuwa: Batadomba Lena; Kuragala; Kalthota Duwili Ella; Waulpane Limestone Cave; Wewelwatta waterfalls; Belihuloya; Samanalawewa; Sabaragamuwa Maha Saman Devalaya.
+
+AGENT RESPONSE RULES
+====================
+- Disambiguate attraction names and return province, district and nearest town.
+- Do not say a place is open now unless a current authoritative schedule has been checked.
+- Do not quote old blog prices as current fees.
+- For national parks, separate entrance, service, vehicle, guide and safari-vehicle charges.
+- For religious places, distinguish free worship access from paid museums or special areas.
+- For beaches and waterfalls, include weather, surf, current, flash-flood and cliff-edge safety.
+- Never promise wildlife sightings or encourage feeding, touching, chasing or baiting animals.
+- For islands and remote parks, verify ferry, road, permit and return-trip arrangements.
+- When uncertain, say what must be confirmed and identify the responsible authority.
+- Never fabricate a street address, GPS coordinate, telephone number, opening hour, fee or booking link.
+
+RECOMMENDED VECTOR-DATABASE METADATA
+====================================
+attraction_id | official_name | alternative_names | province | district | nearest_town | locality | latitude | longitude | category | unesco_status | tentative_list_status | overview | history | activities | accessibility | road_access | public_transport | opening_hours | closed_days | foreign_fee | local_fee | permit_requirements | official_contact | official_website | best_season | weather_risks | safety_notes | visitor_etiquette | nearby_attractions | sources | last_verified_date | confidence_level
+
+SOURCE REGISTER
+===============
+1. Sri Lanka Tourism - Provincial Tourism: https://srilanka.travel/provincial-tourism
+2. Sri Lanka Tourism - Tourist Attractions: https://www.srilanka.travel/tourist-attractions
+3. UNESCO World Heritage Centre - Sri Lanka: https://whc.unesco.org/en/statesparties/lk/
+4. UNESCO World Heritage List: https://whc.unesco.org/en/list/
+5. Department of Wildlife Conservation - Protected Areas: https://www.dwc.gov.lk/?page_id=72
+6. Department of Wildlife Conservation: https://www.dwc.gov.lk/
+7. Sri Lanka Tourism - Cultural Heritage: https://srilanka.travel/cultural_heritage
+8. Department of National Museums: https://www.museum.gov.lk/
+9. Department of National Botanic Gardens: https://www.botanicgardens.gov.lk/
+10. Sri Lanka Railways: https://railway.gov.lk/
+11. Department of Archaeology: https://www.archaeology.gov.lk/
+12. Forest Department: https://www.forestdept.gov.lk/
+
+Source limitation: This register is a verification starting point, not a claim that every record has been checked against a live official page. Before production deployment, add an authoritative source, coordinates, current access/fees and last-verified timestamp to each record. Use DWC for parks, UNESCO for heritage status, responsible departments for museums/gardens/forests and Sri Lanka Railways for train schedules.
+
+END OF DOCUMENT
