@@ -17,7 +17,7 @@ load_dotenv()
 
 
 Settings.embed_model = GoogleGenAIEmbedding(model_name="models/gemini-embedding-2")
-Settings.llm = GoogleGenAI(model="models/gemini-3.8-flash", temperature=0.2)
+Settings.llm = GoogleGenAI(model="models/gemini-3.5-flash", temperature=0.2)
 
 
 def add_bg_local(image_file):
@@ -166,8 +166,6 @@ if prompt := st.chat_input("What would you like to know?"):
                 st.session_state.messages.append({"role": "assistant", "content": full_response})
 
             except Exception as e:
-                # This runs ONLY if Google sends an error
-                error_message = "⚠️ I am currently overwhelmed with requests. As a free service, I have limitations. Please wait about a minute and try asking again!"
-                st.error(error_message)
-                # Actual error to console logs for debugging
-                print(f"DEBUG: Gemini API Error encountered: {e}")
+                # Temporarily show the exact error on the screen
+                st.error(f"System Error: {e}")
+                print(f"DEBUG: {e}")

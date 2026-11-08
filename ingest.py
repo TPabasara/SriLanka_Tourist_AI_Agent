@@ -11,7 +11,7 @@ from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 load_dotenv()
 
 Settings.embed_model = GoogleGenAIEmbedding(model_name="models/gemini-embedding-2")
-Settings.llm = GoogleGenAI(model="models/gemini-3.8-flash", temperature=0.2)
+Settings.llm = GoogleGenAI(model="models/gemini-3.5-flash", temperature=0.2)
 
 
 print("Loading documents...")
